@@ -1,6 +1,4 @@
-name: terminales
-channels:
-  - conda-forge
+name: jabbayeux
 dependencies:
   - numpy
   - matplotlib
