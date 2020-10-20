@@ -1,4 +1,0 @@
-name: jabbayeux
-dependencies:
-  - numpy
-  - matplotlib
